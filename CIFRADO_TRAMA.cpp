@@ -4,8 +4,7 @@
 
 using namespace std;
 
-int
-cipherData (int Rondas)
+int cipherData (int Rondas)
 {
   int numero = 0;
   int Trama[20];
