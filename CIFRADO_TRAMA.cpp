@@ -57,10 +57,6 @@ cipherData (int Rondas)
 
 	    }
 
-
-
-	  
-
 	 }
 	 
 	 cout<<"Ronda "<<conteo<<": { ";
@@ -80,9 +76,4 @@ cipherData (int Rondas)
       conteo++;
 
     }
-    
-
-
-
-
 }
